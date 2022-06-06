@@ -1,1 +1,1 @@
-helloo from local config
+hello from local config
